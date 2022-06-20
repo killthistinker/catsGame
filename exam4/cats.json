@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "пудж",
+    "Age": 5,
+    "SatietyValue": 69,
+    "MoodValue": 67,
+    "HealthValue": 71,
+    "AverageLevel": 69
+  },
+  {
+    "Name": "мирана",
+    "Age": 5,
+    "SatietyValue": 64,
+    "MoodValue": 49,
+    "HealthValue": 68,
+    "AverageLevel": 60
+  },
+  {
+    "Name": "пудж",
+    "Age": 3,
+    "SatietyValue": 61,
+    "MoodValue": 63,
+    "HealthValue": 36,
+    "AverageLevel": 53
+  },
+  {
+    "Name": "свен",
+    "Age": 12,
+    "SatietyValue": 30,
+    "MoodValue": 81,
+    "HealthValue": 25,
+    "AverageLevel": 45
+  }
+]
